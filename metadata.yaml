@@ -1,0 +1,41 @@
+_repo: Cuentos-Cl-sicos-del-Norte-Primera-Serie_46196
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Calderón de Pinillos, Carmen Torres
+    aliases:
+    - Pinillos, Carmen Torres Calderón de
+    - Calderon de Pinillos, Carmen Torres
+    gutenberg_agent_id: '43653'
+    url: http://www.gutenberg.org/2009/agents/43653
+covers:
+- cover_type: archival
+  image_path: 46196-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2014-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46196'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, American -- Translations into Spanish'
+- !lcc 'PS'
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Translations into Spanish'
+- !lcsh 'American literature -- Translations into Spanish'
+tableOfContents: Introducción -- El Barril de Amontillado -- El Escarabajo de Oro
+  -- La Ruina de la Casa de Úsher -- Ligeia -- La Máscara de la Muerte Roja -- El
+  Crimen de la Rue Morgue -- El Gato Negro -- Un Descenso por el Maelström.
+title: Cuentos Clásicos del Norte, Primera Serie
+url: http://www.gutenberg.org/ebooks/46196
